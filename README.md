@@ -24,3 +24,6 @@ Model Topology:
 1) Quantization: reduces the precision of the number
 2) Weight pruning: Reduces overall number of weights
 3) Model topology transform: optimized model for mobile or resource constrained devices.
+
+
+<img src="https://github.com/salim-hbk/ai-ml/blob/main/3-Advance_computer_vision/week-2/duckies_test.gif" />
