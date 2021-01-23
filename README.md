@@ -26,4 +26,6 @@ Model Topology:
 3) Model topology transform: optimized model for mobile or resource constrained devices.
 
 
+Below is custom trained object detection model using tensorflow api. detects 2 classes Tom and Bruno. Trained with just 20 images, 10 each classes.
+
 <img src="https://github.com/salim-hbk/ai-ml/blob/main/3-Advance_computer_vision/week-2/duckies_test.gif" />
